@@ -1,0 +1,9 @@
+#message-list {
+	list-style: none;
+	font-family: sans-serif;
+}
+
+#chat {
+	display: inline;
+	width: 500px;
+}
